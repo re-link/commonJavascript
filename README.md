@@ -1,2 +1,2 @@
 # commonJavascript
-It's a repository for saving common javascript。
+It's a repository for saving common javascript.
